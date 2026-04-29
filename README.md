@@ -64,7 +64,7 @@ Improves performance by cutting unnecessary branches.
 2. Run the game:
 
 ```bash
-python main.py
+python main_3d_fixed.py
 ```
 
 ---
